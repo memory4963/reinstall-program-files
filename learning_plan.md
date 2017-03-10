@@ -3,23 +3,30 @@
 ## 权重排序
 gas-android 项目 weex嵌入  
 android权限机制  
+自定义view  
 android x-posed框架  
 Linux操作系统操作  
 android安全机制  
 机器学习算法 sourcera-Andrew Ng  
 穿越机  
 Retrofit Okhttp rxjava  
+ss服务器搭建 （vps vpn区别）  
 java并发编程实战  
+Intent详解  
+大数据  
+dalvik虚拟机  
 托福  
 socket编程  
 DiyCode完成  
 android传感器机制  
 鸟哥的linux私房菜  
+图像识别  
 MySql  
 jQuery  
 前端培养计划  
 后台培养计划  
 docker  
+网易云音乐HQ下载  
 phthon语言编程、爬虫等  
 
 ## 计划学习
@@ -43,3 +50,10 @@ phthon语言编程、爬虫等
 18. jQuery
 19. MySql
 20. 托福
+21. 自定义view
+22. dalvik虚拟机
+23. Intent详解
+24. ss服务器搭建（vps vpn区别）
+25. 网易云音乐HQ下载
+26. 大数据
+27. 图像识别
