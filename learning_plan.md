@@ -1,13 +1,13 @@
 # 学习计划
 ---
 ## 权重排序
-~~gas-android 项目 weex嵌入~~  
+~~gas-android 项目 weex嵌入~~  
 Linux操作系统操作  
-~~穿越机~~  
+~~穿越机~~  
 android 群英传  
-Retrofit Okhttp rxjava  
+Retrofit Okhttp rxjava  
 ss服务器搭建 （vps vpn区别）  
-DiyCode完成  
+DiyCode完成  
 java并发编程实战  
 android x-posed框架  
 Intent详解  
