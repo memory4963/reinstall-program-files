@@ -2,7 +2,7 @@
 ---
 ## 权重排序
 ~~gas-android 项目 weex嵌入~~  
-Linux操作系统操作  
+~~Linux操作系统操作~~  
 ~~穿越机~~  
 android 群英传  
 Retrofit Okhttp rxjava  
